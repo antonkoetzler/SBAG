@@ -1,4 +1,4 @@
-# LBAG - Local Business Application Generator
+# SBAG - Small Business Application Generator
 
 Cross platform Flutter codebase with a completely integrated CLI flow to create a website for small businsesses.
 
